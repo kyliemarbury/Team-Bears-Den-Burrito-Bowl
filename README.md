@@ -4,7 +4,7 @@ Mission Statement: Colors are hard if you do not know what you are doing. They a
 
 TO LAUNCH WEBSITE:
 Download files in folder WebsiteStuff and drag into new tab in browser of your choice to launch page
-
+ yes updated
 Update March 12:
   - Worked on circle generator tool (Addam)
   - Completed Sprint Backlog (Kenny)
