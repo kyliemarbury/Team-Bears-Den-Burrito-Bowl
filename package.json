@@ -4,19 +4,19 @@
     "description": "TEAM: Kylie Marbury (Project Manager),  Owen Leavitt (Designer), Addam Shover (Dev), William Dolley (Dev), Kenny Lema (Dev)\r TEAM NAME: Bear's Den Burrio Bowl\r Mission Statement: Colors are hard if you do not know what you are doing. They are especially hard when you have a limited color palette to work with. Minecraft, a game all about creativity and working with the blocks that are given to you, has this problem. It can be very hard to find just the right block or set of blocks to fit your vision of what you want to make. It can be hard to tell what blocks fit best with others. There really isn't any one solution out there that has all of the tools necessary to assist in this problem.",
     "main": "index.js",
     "scripts": {
-        "test": "jest"
+        "test": "npx jest"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kyliemarbury/Team-Bears-Den-Burrito-Bowl.git"
+        "url": "git+https://github.com/wdolley/Team-Bears-Den-Burrito-Bowl.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/kyliemarbury/Team-Bears-Den-Burrito-Bowl/issues"
+        "url": "https://github.com/wdolley/Team-Bears-Den-Burrito-Bowl/issues"
     },
-    "homepage": "https://github.com/kyliemarbury/Team-Bears-Den-Burrito-Bowl#readme",
+    "homepage": "https://github.com/wdolley/Team-Bears-Den-Burrito-Bowl#readme",
     "devDependencies": {
         "@babel/core": "^7.26.10",
         "@babel/preset-env": "^7.26.9",
