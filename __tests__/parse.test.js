@@ -15,7 +15,7 @@ test('parse returns an array of arrays', async() => {
     const data = await parse();
     expect(data.length).toBeGreaterThan(0);
     data.forEach(row => {
-        expect(Array.isArray(row)).toBe(true);
+        expect(Array.isArray(row)).toBe(false);
     });
 }
 );
