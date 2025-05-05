@@ -28,6 +28,8 @@
                 <input type="color" id="color-picker" name="color-picker" value="#ff0000">
                 <label for="block-count" color = "black">Number of blocks:</label>
                 <input type="number" id="block-count" name="block-count" min="1" max="10" value="5">
+                <label for="Flammability check">Exlude flamable blocks</label><br>
+                <input type="checkbox" id="Flammability-check" name="Flammability" value="Flammable">
             </div>
             
             <div class="block-count-container">
@@ -47,12 +49,19 @@
         const testPaletteButton = document.getElementById('test-Palette-button');
         const blockCountInput = document.getElementById('block-count');
         const paletteContainer = document.getElementById('palette-container');
+        const flammabilityCheck = document.getElementById('Flammability-check');
+
+        function ReadableFileName(fileName) {
+            let nameWithoutExt = fileName.replace(/.[^/.]+$/, "");
+            let readableName = nameWithoutExt.replace(/_/g, " ");
+            readableName = readableName.replace(/\b\w/g, char => char.toUpperCase());
+            return readableName;
+        }
 
         const csv = await parse();  // Parse your CSV data
 
         colorPicker.addEventListener('input', function() {
-            const selectedColor = this.value;
-            colorValue.textContent = `Selected color: ${selectedColor}`;
+            var selectedColor = this.value;
             console.log('Selected color:', selectedColor);
         });
 
@@ -61,6 +70,8 @@
             var paletteSize = parseInt(blockCountInput.value, 10);
             var loopNumber = 0;
             var palette = [];
+            var names = [];
+            var ids = [];
             var inPalette = false;
             var baseRange = 0.01;
 
@@ -73,11 +84,16 @@
                 loopNumber++;
                 if (loopNumber > 1000) {
                     console.log("Loop limit reached");
+                    console.log(baseRange);
                     break;
                 }
-                inPalette = false;
                 for (var i = 0; i < csv.length; i++) {
+                    inPalette = false;
                     if (MatchColor("#" + csv[i][1], colorPicker.value, baseRange)) {
+                        if(flammabilityCheck.checked && csv[i][3] === "true") {
+                            continue; // Skip flammable blocks if the checkbox is checked
+                        }
+                        console.log("Match found: ", csv[i][1]);
                         for (var j = 0; j < palette.length; j++) {
                             if (palette[j] === csv[i][2]) {
                                 inPalette = true;
@@ -86,48 +102,86 @@
                         }
                         if (!inPalette) {
                             palette.push(csv[i][2]);
+                            ids.push(csv[i][4]);
                         }
                     }
                 }
-                baseRange += 0.05 * loopNumber;
+                baseRange += 0.02 * loopNumber; // Increase the range for the next loop
             }
 
             // Pick random blocks from the palette and remove them from the list
-            var randomBlocks = [];
+            var randomBlocks = []; 
+            var randomIds = [];
             for (var i = 0; i < paletteSize; i++) {
                 var randomIndex = Math.floor(Math.random() * palette.length);
                 randomBlocks.push(palette[randomIndex]);
                 palette.splice(randomIndex, 1);
+                randomIds.push(ids[randomIndex]);
+                ids.splice(randomIndex, 1);
+
             }
 
             console.log("Random blocks: ", randomBlocks);
 
             // Create a table to display the blocks
-            var table = document.createElement("table");;
+            var table = document.createElement("table");
             var images = [];
-            var row;
+            var row = table.insertRow();
+
+            var namestable = document.createElement("table");
+            var nameSlots = [];
+            var row2 = namestable.insertRow();
+            namestable.style.color = "black";
+
+            const namesTableWrapper = document.createElement("div");
+            namesTableWrapper.style.display = "flex";
+            namesTableWrapper.style.alignItems = "center";
+            namesTableWrapper.style.gap = "1rem"; // optional spacing
+            
+            var command = "/give @a shulker_box[container=[";
+
             for (let i = 0; i < paletteSize; i++) {
                 images.push(document.createElement("img"));
+                nameSlots.push(document.createElement("td"));
             }
-            const body = table.createTBody();
-            table.style.color = "black";
-
             // For each random block, create a row in the table
             for (let i = 0; i < randomBlocks.length; i++) {
-                images[i].src = "https://raw.githubusercontent.com/kyliemarbury/Team-Bears-Den-Burrito-Bowl/refs/heads/main/Blocks/" + randomBlocks[i];
+                images[i].src = "https://raw.githubusercontent.com/kyliemarbury/Team-Bears-Den-Burrito-Bowl/refs/heads/Palette-Page/FilterBlocksOutput/" + randomBlocks[i];
+                names.push(ReadableFileName(randomBlocks[i]));
                 if (i % 4 == 0) {
-                    console.log("test");
-                    row = body.insertRow();
+                    row = table.insertRow();
                 }
+                row2 = namestable.insertRow();
                 const imgCell = row.insertCell();
+                const nameCell = row2.insertCell();
+                nameCell.appendChild(document.createTextNode(names[i]));
                 imgCell.appendChild(images[i]); 
+                command += "{slot:" + i + ",item:{id:" + randomIds[i] + ",Count:1}}";
+                if (i < randomBlocks.length - 1) {
+                    command += ",";
+                }
             }
+            command += "]]";
 
             // Clear any previous palette and append the new table
             paletteContainer.innerHTML = "";
             paletteContainer.appendChild(table);
-
+            console.log(namestable);
             console.log("Table appended with rows:", table.rows.length);
+
+            //copy button
+            const nametableButton = document.createElement("button");
+            nametableButton.textContent = "Copy get blocks in-game command to Clipboard";
+            nametableButton.onclick = () => {
+                navigator.clipboard.writeText(command).then(() => {
+                    console.log("Command copied to clipboard:", command);
+                }).catch(err => {
+                    console.error("Failed to copy command: ", err);
+                });
+            };
+            namesTableWrapper.appendChild(namestable);
+            namesTableWrapper.appendChild(nametableButton);
+            paletteContainer.appendChild(namesTableWrapper);
         });
     </script>
 </body>
