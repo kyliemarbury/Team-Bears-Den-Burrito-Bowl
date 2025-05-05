@@ -58,8 +58,7 @@
         const csv = await parse();  // Parse your CSV data
 
         colorPicker.addEventListener('input', function() {
-            const selectedColor = this.value;
-            colorValue.textContent = `Selected color: ${selectedColor}`;
+            var selectedColor = this.value;
             console.log('Selected color:', selectedColor);
         });
 
@@ -80,14 +79,15 @@
             // Loop to collect the palette colors based on the CSV data
             while (palette.length < paletteSize) {
                 loopNumber++;
-                if (loopNumber > 10000) {
+                if (loopNumber > 1000) {
                     console.log("Loop limit reached");
                     console.log(baseRange);
                     break;
                 }
-                inPalette = false;
                 for (var i = 0; i < csv.length; i++) {
+                    inPalette = false;
                     if (MatchColor("#" + csv[i][1], colorPicker.value, baseRange)) {
+                        console.log("Match found: ", csv[i][1]);
                         for (var j = 0; j < palette.length; j++) {
                             if (palette[j] === csv[i][2]) {
                                 inPalette = true;
@@ -165,7 +165,7 @@
 
             //copy button
             const nametableButton = document.createElement("button");
-            nametableButton.textContent = "Get blocks in-game command";
+            nametableButton.textContent = "Copy get blocks in-game command to Clipboard";
             nametableButton.onclick = () => {
                 navigator.clipboard.writeText(command).then(() => {
                     console.log("Command copied to clipboard:", command);
