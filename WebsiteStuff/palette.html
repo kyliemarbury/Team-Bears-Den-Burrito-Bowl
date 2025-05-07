@@ -26,10 +26,12 @@
             <div class="color-picker-container">
                 <label for="color-picker">Select a color:</label>
                 <input type="color" id="color-picker" name="color-picker" value="#ff0000">
-                <label for="block-count" color = "black">Number of blocks:</label>
+            
+                <label for="block-count">Number of blocks:</label>
                 <input type="number" id="block-count" name="block-count" min="1" max="10" value="5">
-                <label for="Flammability check">Exlude flamable blocks</label><br>
+            
                 <input type="checkbox" id="Flammability-check" name="Flammability" value="Flammable">
+                <label for="Flammability-check">Exclude flammable blocks</label>
             </div>
             
             <div class="block-count-container">
@@ -66,7 +68,6 @@
         });
 
         testPaletteButton.addEventListener('click', function() {
-            console.log("Button clicked");
             var paletteSize = parseInt(blockCountInput.value, 10);
             var loopNumber = 0;
             var palette = [];
@@ -90,7 +91,7 @@
                 for (var i = 0; i < csv.length; i++) {
                     inPalette = false;
                     if (MatchColor("#" + csv[i][1], colorPicker.value, baseRange)) {
-                        if(flammabilityCheck.checked && csv[i][3] === "true") {
+                        if(flammabilityCheck.checked && csv[i][3] === "1") {
                             continue; // Skip flammable blocks if the checkbox is checked
                         }
                         console.log("Match found: ", csv[i][1]);
