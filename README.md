@@ -3,7 +3,18 @@ TEAM NAME: Bear's Den Burrio Bowl
 Mission Statement: Colors are hard if you do not know what you are doing. They are especially hard when you have a limited color palette to work with. Minecraft, a game all about creativity and working with the blocks that are given to you, has this problem. It can be very hard to find just the right block or set of blocks to fit your vision of what you want to make. It can be hard to tell what blocks fit best with others. There really isn't any one solution out there that has all of the tools necessary to assist in this problem.
 
 TO LAUNCH WEBSITE:
-Download files in folder WebsiteStuff and drag into new tab in browser of your choice to launch page
+Download files in folder WebsiteStuff, run npx serv, and follow directions given to launch website
+
+Update May 7:
+  - Finished final version of app (Addam)
+  - Made new tests (Owen)
+  - Updates tasks to be more specific (Will)
+  - Documentation finished (Will + Owen)
+  - Quality checked all of the above (Will + Owen)
+  - Created slideshow (Will)
+  - Updated README with updates and installation instructions (Will)
+  - Fixed CI (Will)
+  - Changed ruleset access (Kylie)
 
 Update March 12:
   - Worked on circle generator tool (Addam)
