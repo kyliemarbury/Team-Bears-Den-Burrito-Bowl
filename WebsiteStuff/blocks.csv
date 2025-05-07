@@ -1,515 +1,574 @@
-Acacia Log,676157,acacia_log.png,1
-Acacia Log Top,975937,acacia_log_top.png,1
-Acacia Planks,a85a32,acacia_planks.png,1
-Amethyst Block,8662bf,amethyst_block.png,0
-Ancient Debris Side,604038,ancient_debris_side.png,0
-Ancient Debris Top,5f423a,ancient_debris_top.png,0
-Andesite,888889,andesite.png,0
-Anvil,454545,anvil.png,0
-Azalea Top,667d30,azalea_top.png,0
-Bamboo Block,7f903a,bamboo_block.png,1
-Bamboo Block Top,8b8e3e,bamboo_block_top.png,1
-Bamboo Fence Gate Particle,cfba55,bamboo_fence_gate_particle.png,1
-Bamboo Fence Particle,cfba55,bamboo_fence_particle.png,1
-Bamboo Mosaic,beaa4e,bamboo_mosaic.png,1
-Bamboo Planks,c1ad50,bamboo_planks.png,1
-Bamboo Stalk,5e9014,bamboo_stalk.png,1
-Barrel Side,6c5132,barrel_side.png,0
-Barrel Top,87653a,barrel_top.png,0
-Barrel Top Open,5d4422,barrel_top_open.png,0
-Basalt Side,49494e,basalt_side.png,0
-Basalt Top,515156,basalt_top.png,0
-Beacon,76ddd7,beacon.png,0
-Bedrock,555555,bedrock.png,0
-Beehive End,b5925a,beehive_end.png,1
-Beehive Front,9f804e,beehive_front.png,1
-Beehive Front Honey,a7844a,beehive_front_honey.png,1
-Beehive Side,9d7e4c,beehive_side.png,1
-Bee Nest Front,b78e4c,bee_nest_front.png,1
-Bee Nest Front Honey,c3984c,bee_nest_front_honey.png,1
-Bee Nest Side,c4974d,bee_nest_side.png,1
-Bee Nest Top,caa04b,bee_nest_top.png,1
-Birch Log,d9d7d2,birch_log.png,1
-Birch Log Top,c1b387,birch_log_top.png,1
-Birch Planks,c0af79,birch_planks.png,1
-Blackstone,2a2429,blackstone.png,0
-Blackstone Top,2a242a,blackstone_top.png,0
-Black Concrete,080a0f,black_concrete.png,0
-Black Concrete Powder,191b20,black_concrete_powder.png,0
-Black Glazed Terracotta,441e20,black_glazed_terracotta.png,0
-Black Shulker Box,19191e,black_shulker_box.png,0
-Black Terracotta,251710,black_terracotta.png,0
-Black Wool,15151a,black_wool.png,0
-Blast Furnace Front,6c6c6b,blast_furnace_front.png,0
-Blast Furnace Front On,746f69,blast_furnace_front_on.png,0
-Blast Furnace Side,6c6b6c,blast_furnace_side.png,0
-Blast Furnace Top,515051,blast_furnace_top.png,0
-Blue Concrete,2d2f8f,blue_concrete.png,0
-Blue Concrete Powder,4649a7,blue_concrete_powder.png,0
-Blue Glazed Terracotta,2f418b,blue_glazed_terracotta.png,0
-Blue Ice,74a8fd,blue_ice.png,0
-Blue Shulker Box,2c2e8c,blue_shulker_box.png,0
-Blue Stained Glass,334cb2,blue_stained_glass.png,0
-Blue Terracotta,4a3c5b,blue_terracotta.png,0
-Blue Wool,35399d,blue_wool.png,0
-Bone Block Side,e5e2d0,bone_block_side.png,0
-Bone Block Top,d2ceb3,bone_block_top.png,0
-Bookshelf,755f3c,bookshelf.png,1
-Brain Coral Block,cf5b9f,brain_coral_block.png,0
-Brewing Stand Base,756a6a,brewing_stand_base.png,0
-Bricks,976253,bricks.png,0
-Brown Concrete,603c20,brown_concrete.png,0
-Brown Concrete Powder,7e5536,brown_concrete_powder.png,0
-Brown Glazed Terracotta,786a56,brown_glazed_terracotta.png,0
-Brown Mushroom Block,957051,brown_mushroom_block.png,0
-Brown Shulker Box,6a4224,brown_shulker_box.png,0
-Brown Terracotta,4d3324,brown_terracotta.png,0
-Brown Wool,724829,brown_wool.png,0
-Bubble Coral Block,a51aa2,bubble_coral_block.png,0
-Budding Amethyst,8460bb,budding_amethyst.png,0
-Calcite,dfe0dd,calcite.png,0
-Calibrated Sculk Sensor Top,1c4f65,calibrated_sculk_sensor_top.png,0
-Campfire Log Lit,6f5836,campfire_log_lit.png,1
-Cartography Table Top,675743,cartography_table_top.png,0
-Carved Pumpkin,965411,carved_pumpkin.png,0
-Cauldron Inner,313135,cauldron_inner.png,0
-Cauldron Side,4a494b,cauldron_side.png,0
-Cherry Log,37212c,cherry_log.png,1
-Cherry Log Top,b98d89,cherry_log_top.png,1
-Cherry Planks,e3b3ad,cherry_planks.png,1
-Chiseled Bookshelf Empty,5a472a,chiseled_bookshelf_empty.png,1
-Chiseled Bookshelf Occupied,795e46,chiseled_bookshelf_occupied.png,1
-Chiseled Bookshelf Side,af8e56,chiseled_bookshelf_side.png,1
-Chiseled Bookshelf Top,b29159,chiseled_bookshelf_top.png,1
-Chiseled Copper,b8654a,chiseled_copper.png,0
-Chiseled Deepslate,363637,chiseled_deepslate.png,0
-Chiseled Nether Bricks,2e171b,chiseled_nether_bricks.png,0
-Chiseled Polished Blackstone,363139,chiseled_polished_blackstone.png,0
-Chiseled Quartz Block,e8e3da,chiseled_quartz_block.png,0
-Chiseled Quartz Block Top,e8e3d9,chiseled_quartz_block_top.png,0
-Chiseled Red Sandstone,b7611c,chiseled_red_sandstone.png,0
-Chiseled Resin Bricks,c95419,chiseled_resin_bricks.png,0
-Chiseled Sandstone,d8cb9b,chiseled_sandstone.png,0
-Chiseled Stone Bricks,787778,chiseled_stone_bricks.png,0
-Chiseled Tuff,595e57,chiseled_tuff.png,0
-Chiseled Tuff Bricks,636760,chiseled_tuff_bricks.png,0
-Chiseled Tuff Bricks Top,6f726b,chiseled_tuff_bricks_top.png,0
-Chiseled Tuff Top,5e635b,chiseled_tuff_top.png,0
-Chorus Plant,5e395e,chorus_plant.png,0
-Clay,a1a6b3,clay.png,0
-Coal Block,101010,coal_block.png,1
-Coal Ore,6a6a69,coal_ore.png,1
-Coarse Dirt,77563b,coarse_dirt.png,0
-Cobbled Deepslate,4d4d51,cobbled_deepslate.png,0
-Cobblestone,807f80,cobblestone.png,0
-Comparator,a6a2a0,comparator.png,0
-Comparator On,b0a09e,comparator_on.png,0
-Composter Side,704620,composter_side.png,0
-Copper Block,c06c50,copper_block.png,0
-Copper Bulb,9c5739,copper_bulb.png,0
-Copper Bulb Lit,d8976b,copper_bulb_lit.png,0
-Copper Bulb Lit Powered,d8966a,copper_bulb_lit_powered.png,0
-Copper Bulb Powered,9d5639,copper_bulb_powered.png,0
-Copper Ore,7d7e78,copper_ore.png,0
-Cracked Deepslate Bricks,414141,cracked_deepslate_bricks.png,0
-Cracked Deepslate Tiles,353535,cracked_deepslate_tiles.png,0
-Cracked Nether Bricks,281418,cracked_nether_bricks.png,0
-Cracked Polished Blackstone Bricks,2c262c,cracked_polished_blackstone_bricks.png,0
-Cracked Stone Bricks,767676,cracked_stone_bricks.png,0
-Crafter East,7f725d,crafter_east.png,0
-Crafter East Crafting,81725d,crafter_east_crafting.png,0
-Crafter East Triggered,81725d,crafter_east_triggered.png,0
-Crafter North,726d65,crafter_north.png,0
-Crafter North Crafting,686052,crafter_north_crafting.png,0
-Crafter South,7b7061,crafter_south.png,0
-Crafter South Triggered,7e7161,crafter_south_triggered.png,0
-Crafter Top,706364,crafter_top.png,0
-Crafter Top Crafting,8c6464,crafter_top_crafting.png,0
-Crafter Top Triggered,736364,crafter_top_triggered.png,0
-Crafter West,81735f,crafter_west.png,0
-Crafter West Crafting,82745f,crafter_west_crafting.png,0
-Crafter West Triggered,82735f,crafter_west_triggered.png,0
-Crafting Table Front,816a46,crafting_table_front.png,0
-Crafting Table Side,81673f,crafting_table_side.png,0
-Crafting Table Top,78492a,crafting_table_top.png,0
-Creaking Heart,52443f,creaking_heart.png,0
-Creaking Heart Awake,965431,creaking_heart_awake.png,0
-Creaking Heart Dormant,664231,creaking_heart_dormant.png,0
-Creaking Heart Top,493c36,creaking_heart_top.png,0
-Creaking Heart Top Awake,99542d,creaking_heart_top_awake.png,0
-Creaking Heart Top Dormant,66412d,creaking_heart_top_dormant.png,0
-Crimson Nylium,831f1f,crimson_nylium.png,0
-Crimson Nylium Side,6b1b1b,crimson_nylium_side.png,0
-Crimson Planks,653147,crimson_planks.png,0
-Crimson Stem,5d1a1e,crimson_stem.png,0
-Crimson Stem Top,713246,crimson_stem_top.png,0
-Crying Obsidian,210a3c,crying_obsidian.png,0
-Cut Copper,bf6b51,cut_copper.png,0
-Cut Red Sandstone,bd6620,cut_red_sandstone.png,0
-Cut Sandstone,dacea0,cut_sandstone.png,0
-Cyan Concrete,157788,cyan_concrete.png,0
-Cyan Concrete Powder,25949d,cyan_concrete_powder.png,0
-Cyan Glazed Terracotta,34777d,cyan_glazed_terracotta.png,0
-Cyan Shulker Box,147987,cyan_shulker_box.png,0
-Cyan Terracotta,575b5b,cyan_terracotta.png,0
-Cyan Wool,158a91,cyan_wool.png,0
-Dark Oak Log,3c2f1a,dark_oak_log.png,1
-Dark Oak Log Top,442d16,dark_oak_log_top.png,1
-Dark Oak Planks,432b14,dark_oak_planks.png,1
-Dark Prismarine,345c4c,dark_prismarine.png,0
-Daylight Detector Inverted Top,6a6d71,daylight_detector_inverted_top.png,0
-Daylight Detector Side,433724,daylight_detector_side.png,0
-Daylight Detector Top,83745f,daylight_detector_top.png,0
-Dead Brain Coral Block,7c7672,dead_brain_coral_block.png,0
-Dead Bubble Coral Block,847c77,dead_bubble_coral_block.png,0
-Dead Fire Coral Block,847c78,dead_fire_coral_block.png,0
-Dead Horn Coral Block,867e7a,dead_horn_coral_block.png,0
-Dead Tube Coral Block,827b78,dead_tube_coral_block.png,0
-Deepslate,505053,deepslate.png,0
-Deepslate Bricks,474747,deepslate_bricks.png,0
-Deepslate Coal Ore,4a4a4c,deepslate_coal_ore.png,1
-Deepslate Copper Ore,5c5d59,deepslate_copper_ore.png,0
-Deepslate Diamond Ore,536a6b,deepslate_diamond_ore.png,0
-Deepslate Emerald Ore,4e6858,deepslate_emerald_ore.png,0
-Deepslate Gold Ore,73674e,deepslate_gold_ore.png,0
-Deepslate Iron Ore,6b645f,deepslate_iron_ore.png,0
-Deepslate Lapis Ore,505b73,deepslate_lapis_ore.png,0
-Deepslate Redstone Ore,69494b,deepslate_redstone_ore.png,0
-Deepslate Tiles,373737,deepslate_tiles.png,0
-Deepslate Top,575759,deepslate_top.png,0
-Diamond Block,62ede4,diamond_block.png,0
-Diamond Ore,798d8d,diamond_ore.png,0
-Diorite,bdbcbd,diorite.png,0
-Dirt,866043,dirt.png,0
-Dirt Path Top,947a41,dirt_path_top.png,0
-Dispenser Front Vertical,636262,dispenser_front_vertical.png,0
-Dried Kelp Side,26311e,dried_kelp_side.png,1
-Dried Kelp Top,323b27,dried_kelp_top.png,1
-Dripstone Block,866c5d,dripstone_block.png,0
-Dropper Front,7a7a7a,dropper_front.png,0
-Dropper Front Vertical,626161,dropper_front_vertical.png,0
-Emerald Block,2acb58,emerald_block.png,0
-Emerald Ore,6c8874,emerald_ore.png,0
-Enchanting Table Top,814b55,enchanting_table_top.png,0
-End Portal Frame Top,5b7961,end_portal_frame_top.png,0
-End Stone,dcdf9e,end_stone.png,0
-End Stone Bricks,dae0a2,end_stone_bricks.png,0
-Exposed Chiseled Copper,9b7765,exposed_chiseled_copper.png,0
-Exposed Copper,a17e68,exposed_copper.png,0
-Exposed Copper Bulb,876c5a,exposed_copper_bulb.png,0
-Exposed Copper Bulb Lit,c29164,exposed_copper_bulb_lit.png,0
-Exposed Copper Bulb Lit Powered,c39063,exposed_copper_bulb_lit_powered.png,0
-Exposed Copper Bulb Powered,886a59,exposed_copper_bulb_powered.png,0
-Exposed Cut Copper,9b7a65,exposed_cut_copper.png,0
-Farmland,8f6747,farmland.png,0
-Farmland Moist,522c0f,farmland_moist.png,0
-Fire Coral Block,a4232f,fire_coral_block.png,0
-Fletching Table Front,ad9b6f,fletching_table_front.png,0
-Fletching Table Side,c0a782,fletching_table_side.png,0
-Fletching Table Top,c5b485,fletching_table_top.png,0
-Furnace Front,5c5b5b,furnace_front.png,0
-Furnace Front On,79715e,furnace_front_on.png,0
-Furnace Side,797878,furnace_side.png,0
-Furnace Top,6e6e6e,furnace_top.png,0
-Gilded Blackstone,382b26,gilded_blackstone.png,0
-Glowstone,ac8354,glowstone.png,0
-Glow Item Frame,946740,glow_item_frame.png,0
-Gold Block,f6d03e,gold_block.png,0
-Gold Ore,91866b,gold_ore.png,0
-Granite,956756,granite.png,0
-Grass Block Side,7f6b42,grass_block_side.png,0
-Grass Block Snow,aa9785,grass_block_snow.png,0
-Gravel,847f7f,gravel.png,0
-Gray Concrete,373a3e,gray_concrete.png,0
-Gray Concrete Powder,4d5155,gray_concrete_powder.png,0
-Gray Glazed Terracotta,535a5e,gray_glazed_terracotta.png,0
-Gray Shulker Box,373b3e,gray_shulker_box.png,0
-Gray Terracotta,3a2a24,gray_terracotta.png,0
-Gray Wool,3f4448,gray_wool.png,0
-Green Concrete,495b24,green_concrete.png,0
-Green Concrete Powder,61772d,green_concrete_powder.png,0
-Green Glazed Terracotta,758e43,green_glazed_terracotta.png,0
-Green Shulker Box,4f6520,green_shulker_box.png,0
-Green Terracotta,4c532a,green_terracotta.png,0
-Green Wool,556e1c,green_wool.png,0
-Hay Block Side,a68826,hay_block_side.png,0
-Hay Block Top,a68b0c,hay_block_top.png,0
-Honeycomb Block,e5941e,honeycomb_block.png,0
-Hopper Inside,313135,hopper_inside.png,0
-Hopper Outside,434244,hopper_outside.png,0
-Horn Coral Block,d8c842,horn_coral_block.png,0
-Iron Block,dcdcdc,iron_block.png,0
-Iron Ore,88817b,iron_ore.png,0
-Item Frame,75432b,item_frame.png,0
-Jack O Lantern,d79835,jack_o_lantern.png,0
-Jukebox Side,593b29,jukebox_side.png,0
-Jukebox Top,5e402f,jukebox_top.png,0
-Jungle Log,554419,jungle_log.png,1
-Jungle Log Top,966d47,jungle_log_top.png,1
-Jungle Planks,a07351,jungle_planks.png,1
-Lapis Block,1f438c,lapis_block.png,0
-Lapis Ore,6b768d,lapis_ore.png,0
-Lava Still,d45a12,lava_still.png,0
-Lectern Base,a3794a,lectern_base.png,0
-Lectern Front,826538,lectern_front.png,0
-Lectern Sides,967544,lectern_sides.png,0
-Lectern Top,ae8a53,lectern_top.png,0
-Lightning Rod On,ffffff,lightning_rod_on.png,0
-Light Blue Concrete,2489c7,light_blue_concrete.png,0
-Light Blue Concrete Powder,4ab5d5,light_blue_concrete_powder.png,0
-Light Blue Glazed Terracotta,5fa5d1,light_blue_glazed_terracotta.png,0
-Light Blue Shulker Box,31a4d4,light_blue_shulker_box.png,0
-Light Blue Terracotta,716d8a,light_blue_terracotta.png,0
-Light Blue Wool,3aafd9,light_blue_wool.png,0
-Light Gray Concrete,7d7d73,light_gray_concrete.png,0
-Light Gray Concrete Powder,9b9b94,light_gray_concrete_powder.png,0
-Light Gray Glazed Terracotta,90a6a8,light_gray_glazed_terracotta.png,0
-Light Gray Shulker Box,7c7c73,light_gray_shulker_box.png,0
-Light Gray Terracotta,876b62,light_gray_terracotta.png,0
-Light Gray Wool,8e8e87,light_gray_wool.png,0
-Lime Concrete,5ea918,lime_concrete.png,0
-Lime Concrete Powder,7dbd2a,lime_concrete_powder.png,0
-Lime Glazed Terracotta,a3c637,lime_glazed_terracotta.png,0
-Lime Shulker Box,64ad17,lime_shulker_box.png,0
-Lime Terracotta,687635,lime_terracotta.png,0
-Lime Wool,70b91a,lime_wool.png,0
-Lodestone Side,77787b,lodestone_side.png,0
-Lodestone Top,939599,lodestone_top.png,0
-Loom Front,947752,loom_front.png,0
-Loom Side,926548,loom_side.png,0
-Loom Top,8e775c,loom_top.png,0
-Magenta Concrete,a9309f,magenta_concrete.png,0
-Magenta Concrete Powder,c154b9,magenta_concrete_powder.png,0
-Magenta Glazed Terracotta,d064c0,magenta_glazed_terracotta.png,0
-Magenta Shulker Box,ae36a4,magenta_shulker_box.png,0
-Magenta Terracotta,96586d,magenta_terracotta.png,0
-Magenta Wool,be45b4,magenta_wool.png,0
-Magma,8f3f20,magma.png,0
-Mangrove Log,544329,mangrove_log.png,1
-Mangrove Log Top,67312a,mangrove_log_top.png,1
-Mangrove Planks,763631,mangrove_planks.png,1
-Melon Side,72921e,melon_side.png,0
-Melon Top,6f911f,melon_top.png,0
-Mossy Cobblestone,6e765f,mossy_cobblestone.png,0
-Mossy Stone Bricks,737969,mossy_stone_bricks.png,0
-Moss Block,596e2d,moss_block.png,0
-Mud,3c393d,mud.png,0
-Muddy Mangrove Roots Side,443b30,muddy_mangrove_roots_side.png,0
-Muddy Mangrove Roots Top,463b2d,muddy_mangrove_roots_top.png,0
-Mushroom Block Inside,caaa78,mushroom_block_inside.png,0
-Mushroom Stem,cbc5ba,mushroom_stem.png,0
-Mycelium Side,725848,mycelium_side.png,0
-Netherite Block,433d40,netherite_block.png,0
-Netherrack,622626,netherrack.png,0
-Nether Bricks,2c161a,nether_bricks.png,0
-Nether Gold Ore,73372a,nether_gold_ore.png,0
-Nether Quartz Ore,76423e,nether_quartz_ore.png,0
-Nether Wart Block,730302,nether_wart_block.png,0
-Note Block,593b29,note_block.png,0
-Oak Log,6d5533,oak_log.png,1
-Oak Log Top,977a49,oak_log_top.png,1
-Oak Planks,a2834f,oak_planks.png,1
-Observer Back,484646,observer_back.png,0
-Observer Back On,4c4444,observer_back_on.png,0
-Observer Front,686767,observer_front.png,0
-Observer Side,464545,observer_side.png,0
-Observer Top,626262,observer_top.png,0
-Obsidian,0f0b19,obsidian.png,0
-Ochre Froglight Side,f5e9b6,ochre_froglight_side.png,0
-Ochre Froglight Top,fbf5ce,ochre_froglight_top.png,0
-Orange Concrete,e06101,orange_concrete.png,0
-Orange Concrete Powder,e38420,orange_concrete_powder.png,0
-Orange Glazed Terracotta,9b935c,orange_glazed_terracotta.png,0
-Orange Shulker Box,ea6a09,orange_shulker_box.png,0
-Orange Terracotta,a25426,orange_terracotta.png,0
-Orange Wool,f17614,orange_wool.png,0
-Oxidized Chiseled Copper,54a284,oxidized_chiseled_copper.png,0
-Oxidized Copper,52a385,oxidized_copper.png,0
-Oxidized Copper Bulb,46846d,oxidized_copper_bulb.png,0
-Oxidized Copper Bulb Lit,879a68,oxidized_copper_bulb_lit.png,0
-Oxidized Copper Bulb Lit Powered,889967,oxidized_copper_bulb_lit_powered.png,0
-Oxidized Copper Bulb Powered,48836c,oxidized_copper_bulb_powered.png,0
-Oxidized Cut Copper,509a7e,oxidized_cut_copper.png,0
-Packed Ice,8eb4fa,packed_ice.png,0
-Packed Mud,8e6b50,packed_mud.png,0
-Pale Moss Block,6b7069,pale_moss_block.png,0
-Pale Moss Carpet,6b7069,pale_moss_carpet.png,0
-Pale Oak Log,584e4b,pale_oak_log.png,1
-Pale Oak Log Top,c7bdbc,pale_oak_log_top.png,1
-Pale Oak Planks,e4dad8,pale_oak_planks.png,1
-Pearlescent Froglight Side,ece1e5,pearlescent_froglight_side.png,0
-Pearlescent Froglight Top,f6f0f0,pearlescent_froglight_top.png,0
-Pink Concrete,d6658f,pink_concrete.png,0
-Pink Concrete Powder,e599b5,pink_concrete_powder.png,0
-Pink Glazed Terracotta,eb9bb6,pink_glazed_terracotta.png,0
-Pink Petals Stem,020202,pink_petals_stem.png,0
-Pink Shulker Box,e67a9e,pink_shulker_box.png,0
-Pink Terracotta,a24e4f,pink_terracotta.png,0
-Pink Wool,ee8dac,pink_wool.png,0
-Piston Inner,616161,piston_inner.png,0
-Piston Side,6e6961,piston_side.png,0
-Piston Top,998055,piston_top.png,0
-Piston Top Sticky,7b955c,piston_top_sticky.png,0
-Podzol Side,7b5839,podzol_side.png,0
-Podzol Top,5c3f18,podzol_top.png,0
-Polished Andesite,848786,polished_andesite.png,0
-Polished Basalt Side,59585c,polished_basalt_side.png,0
-Polished Basalt Top,636365,polished_basalt_top.png,0
-Polished Blackstone,353139,polished_blackstone.png,0
-Polished Blackstone Bricks,302b32,polished_blackstone_bricks.png,0
-Polished Deepslate,484949,polished_deepslate.png,0
-Polished Diorite,c1c1c3,polished_diorite.png,0
-Polished Granite,9a6b59,polished_granite.png,0
-Polished Tuff,626864,polished_tuff.png,0
-Powder Snow,f8fdfd,powder_snow.png,0
-Prismarine,639c97,prismarine.png,0
-Prismarine Bricks,63ac9e,prismarine_bricks.png,0
-Pumpkin Side,c47318,pumpkin_side.png,0
-Pumpkin Top,c67718,pumpkin_top.png,0
-Purple Concrete,64209c,purple_concrete.png,0
-Purple Concrete Powder,8438b2,purple_concrete_powder.png,0
-Purple Glazed Terracotta,6e3098,purple_glazed_terracotta.png,0
-Purple Shulker Box,67209c,purple_shulker_box.png,0
-Purple Terracotta,764656,purple_terracotta.png,0
-Purple Wool,7a2aad,purple_wool.png,0
-Purpur Block,aa7eaa,purpur_block.png,0
-Purpur Pillar,ac82ac,purpur_pillar.png,0
-Purpur Pillar Top,ac80ab,purpur_pillar_top.png,0
-Quartz Block Side,ece6df,quartz_block_side.png,0
-Quartz Block Top,ece6df,quartz_block_top.png,0
-Quartz Bricks,ebe5de,quartz_bricks.png,0
-Quartz Pillar,ece7e0,quartz_pillar.png,0
-Quartz Pillar Top,ebe6df,quartz_pillar_top.png,0
-Raw Copper Block,9a6a4f,raw_copper_block.png,0
-Raw Gold Block,dea92f,raw_gold_block.png,0
-Raw Iron Block,a6886b,raw_iron_block.png,0
-Redstone Block,b01905,redstone_block.png,0
-Redstone Lamp,5f371e,redstone_lamp.png,0
-Redstone Lamp On,8f663d,redstone_lamp_on.png,0
-Redstone Ore,8c6e6e,redstone_ore.png,0
-Red Concrete,8e2121,red_concrete.png,0
-Red Concrete Powder,a83633,red_concrete_powder.png,0
-Red Glazed Terracotta,b63c35,red_glazed_terracotta.png,0
-Red Mushroom Block,c82f2d,red_mushroom_block.png,0
-Red Nether Bricks,460709,red_nether_bricks.png,0
-Red Sand,bf6721,red_sand.png,0
-Red Sandstone,bb631d,red_sandstone.png,0
-Red Sandstone Top,b5621f,red_sandstone_top.png,0
-Red Shulker Box,8c1f1e,red_shulker_box.png,0
-Red Terracotta,8f3d2f,red_terracotta.png,0
-Red Wool,a12723,red_wool.png,0
-Reinforced Deepslate Side,666d65,reinforced_deepslate_side.png,0
-Reinforced Deepslate Top,50534f,reinforced_deepslate_top.png,0
-Repeater,a09d9c,repeater.png,0
-Repeater On,a99d9c,repeater_on.png,0
-Resin Block,d96319,resin_block.png,0
-Resin Bricks,ce5818,resin_bricks.png,0
-Respawn Anchor Side0,28183f,respawn_anchor_side0.png,0
-Respawn Anchor Top Off,221634,respawn_anchor_top_off.png,0
-Rooted Dirt,90684d,rooted_dirt.png,0
-Sand,dbcfa3,sand.png,0
-Sandstone,d8cb9c,sandstone.png,0
-Sandstone Top,e0d6aa,sandstone_top.png,0
-Sculk,0d1e24,sculk.png,0
-Sculk Catalyst Side,4d5e5a,sculk_catalyst_side.png,0
-Sculk Catalyst Side Bloom,4d615d,sculk_catalyst_side_bloom.png,0
-Sculk Catalyst Top,0f2026,sculk_catalyst_top.png,0
-Sculk Catalyst Top Bloom,102d33,sculk_catalyst_top_bloom.png,0
-Sculk Sensor Top,074654,sculk_sensor_top.png,0
-Sculk Shrieker Can Summon Inner Top,1f4142,sculk_shrieker_can_summon_inner_top.png,0
-Sculk Shrieker Inner Top,1e3637,sculk_shrieker_inner_top.png,0
-Sea Lantern,acc8be,sea_lantern.png,0
-Shroomlight,f19347,shroomlight.png,0
-Shulker Box,8b618b,shulker_box.png,0
-Smithing Table Front,392527,smithing_table_front.png,0
-Smithing Table Side,372324,smithing_table_side.png,0
-Smithing Table Top,393b47,smithing_table_top.png,0
-Smoker Front,584b3a,smoker_front.png,0
-Smoker Front On,776143,smoker_front_on.png,0
-Smoker Side,675c4c,smoker_side.png,0
-Smoker Top,555451,smoker_top.png,0
-Smooth Basalt,49484e,smooth_basalt.png,0
-Smooth Stone,9f9f9f,smooth_stone.png,0
-Smooth Stone Slab Side,a8a8a8,smooth_stone_slab_side.png,0
-Snow,f9fefe,snow.png,0
-Soul Campfire Log Lit,466b69,soul_campfire_log_lit.png,1
-Soul Sand,513e33,soul_sand.png,0
-Soul Soil,4c3a2f,soul_soil.png,0
-Sponge,c4c04b,sponge.png,0
-Spruce Log,3b2611,spruce_log.png,1
-Spruce Log Top,6d502f,spruce_log_top.png,1
-Spruce Planks,735531,spruce_planks.png,1
-Stone,7e7e7e,stone.png,0
-Stonecutter Top,7b776f,stonecutter_top.png,0
-Stone Bricks,7a7a7a,stone_bricks.png,0
-Stripped Acacia Log,af5d3c,stripped_acacia_log.png,1
-Stripped Acacia Log Top,a65b34,stripped_acacia_log_top.png,1
-Stripped Bamboo Block,c1ad50,stripped_bamboo_block.png,1
-Stripped Bamboo Block Top,b29f49,stripped_bamboo_block_top.png,1
-Stripped Birch Log,c5b076,stripped_birch_log.png,1
-Stripped Birch Log Top,bfac74,stripped_birch_log_top.png,1
-Stripped Cherry Log,d79195,stripped_cherry_log.png,1
-Stripped Cherry Log Top,dda59e,stripped_cherry_log_top.png,1
-Stripped Crimson Stem,89395a,stripped_crimson_stem.png,0
-Stripped Crimson Stem Top,7a3853,stripped_crimson_stem_top.png,0
-Stripped Dark Oak Log,493924,stripped_dark_oak_log.png,1
-Stripped Dark Oak Log Top,422c17,stripped_dark_oak_log_top.png,1
-Stripped Jungle Log,ab8555,stripped_jungle_log.png,1
-Stripped Jungle Log Top,a67b52,stripped_jungle_log_top.png,1
-Stripped Mangrove Log,783630,stripped_mangrove_log.png,1
-Stripped Mangrove Log Top,6d2c2b,stripped_mangrove_log_top.png,1
-Stripped Oak Log,b19056,stripped_oak_log.png,1
-Stripped Oak Log Top,a0824d,stripped_oak_log_top.png,1
-Stripped Pale Oak Log,f6eeed,stripped_pale_oak_log.png,1
-Stripped Pale Oak Log Top,ebe3e2,stripped_pale_oak_log_top.png,1
-Stripped Spruce Log,745a34,stripped_spruce_log.png,1
-Stripped Spruce Log Top,6a502f,stripped_spruce_log_top.png,1
-Stripped Warped Stem,3a9794,stripped_warped_stem.png,0
-Stripped Warped Stem Top,34817c,stripped_warped_stem_top.png,0
-Target Side,e5b0a8,target_side.png,0
-Target Top,e2aa9e,target_top.png,0
-Terracotta,985e44,terracotta.png,0
-Test Block Accept,84bf75,test_block_accept.png,0
-Test Block Fail,7d71ab,test_block_fail.png,0
-Test Block Log,8fb0d6,test_block_log.png,1
-Test Block Start,bf9e78,test_block_start.png,0
-Test Instance Block,7f7977,test_instance_block.png,0
-Tnt Side,b65854,tnt_side.png,1
-Tnt Top,8f3e36,tnt_top.png,1
-Trial Spawner Top Active,3f515c,trial_spawner_top_active.png,0
-Trial Spawner Top Active Ominous,315464,trial_spawner_top_active_ominous.png,0
-Trial Spawner Top Inactive,395363,trial_spawner_top_inactive.png,0
-Trial Spawner Top Inactive Ominous,314a5b,trial_spawner_top_inactive_ominous.png,0
-Tube Coral Block,3157cf,tube_coral_block.png,0
-Tuff,6c6d67,tuff.png,0
-Tuff Bricks,62675f,tuff_bricks.png,0
-Vault Top,37464f,vault_top.png,0
-Vault Top Ominous,454947,vault_top_ominous.png,0
-Verdant Froglight Side,d3ebd0,verdant_froglight_side.png,0
-Verdant Froglight Top,e5f4e4,verdant_froglight_top.png,0
-Warped Nylium,2b7265,warped_nylium.png,0
-Warped Nylium Side,493e3c,warped_nylium_side.png,0
-Warped Planks,2b6963,warped_planks.png,0
-Warped Stem,3a3b4e,warped_stem.png,0
-Warped Stem Top,356e6e,warped_stem_top.png,0
-Warped Wart Block,177879,warped_wart_block.png,0
-Weathered Chiseled Copper,69976f,weathered_chiseled_copper.png,0
-Weathered Copper,6c996e,weathered_copper.png,0
-Weathered Copper Bulb,5c7f63,weathered_copper_bulb.png,0
-Weathered Copper Bulb Lit,9c9d63,weathered_copper_bulb_lit.png,0
-Weathered Copper Bulb Lit Powered,9e9c62,weathered_copper_bulb_lit_powered.png,0
-Weathered Copper Bulb Powered,5e7d62,weathered_copper_bulb_powered.png,0
-Weathered Cut Copper,6d916c,weathered_cut_copper.png,0
-Wet Sponge,abb546,wet_sponge.png,0
-White Concrete,cfd5d6,white_concrete.png,0
-White Concrete Powder,e2e3e4,white_concrete_powder.png,0
-White Glazed Terracotta,bcd4cb,white_glazed_terracotta.png,0
-White Shulker Box,d8dddd,white_shulker_box.png,0
-White Terracotta,d2b2a1,white_terracotta.png,0
-White Wool,eaeced,white_wool.png,0
-Yellow Concrete,f1af15,yellow_concrete.png,0
-Yellow Concrete Powder,e9c737,yellow_concrete_powder.png,0
-Yellow Glazed Terracotta,eac059,yellow_glazed_terracotta.png,0
-Yellow Shulker Box,f8bd1d,yellow_shulker_box.png,0
-Yellow Terracotta,ba8523,yellow_terracotta.png,0
-Yellow Wool,f9c628,yellow_wool.png,0
+Acacia Leaves,565656,acacia_leaves.png,1,acacia_leaves
+Acacia Log,676157,acacia_log.png,1,acacia_log
+Acacia Log Top,975937,acacia_log_top.png,1,acacia_log
+Acacia Planks,a85a32,acacia_planks.png,1,acacia_planks
+Acacia Trapdoor,784327,acacia_trapdoor.png,0,acacia_trapdoor
+Amethyst Block,8662bf,amethyst_block.png,0,amethyst_block
+Ancient Debris Side,604038,ancient_debris_side.png,0,ancient_debris
+Ancient Debris Top,5f423a,ancient_debris_top.png,0,ancient_debris
+Andesite,888889,andesite.png,0,andesite
+Anvil,454545,anvil.png,0,anvil
+Azalea Leaves,455822,azalea_leaves.png,1,azalea_leaves
+Azalea Plant,445120,azalea_plant.png,0,azalea
+Azalea Top,667d30,azalea_top.png,0,azalea
+Bamboo Block,7f903a,bamboo_block.png,1,bamboo_block
+Bamboo Block Top,8b8e3e,bamboo_block_top.png,1,bamboo_block
+Bamboo Fence Gate,9b8b41,bamboo_fence_gate.png,1,bamboo_fence_gate
+Bamboo Mosaic,beaa4e,bamboo_mosaic.png,1,bamboo_mosaic
+Bamboo Planks,c1ad50,bamboo_planks.png,1,bamboo_planks
+Bamboo Trapdoor,a59447,bamboo_trapdoor.png,1,bamboo_trapdoor
+Barrel Side,6c5132,barrel_side.png,0,barrel
+Barrel Top,87653a,barrel_top.png,0,barrel
+Barrel Top Open,5d4422,barrel_top_open.png,0,barrel
+Basalt Side,49494e,basalt_side.png,0,basalt
+Basalt Top,515156,basalt_top.png,0,basalt
+Beacon,76ddd7,beacon.png,0,beacon
+Bedrock,555555,bedrock.png,0,bedrock
+Beehive End,b5925a,beehive_end.png,1,beehive_end
+Beehive Front,9f804e,beehive_front.png,1,beehive
+Beehive Front Honey,a7844a,beehive_front_honey.png,1,beehive
+Beehive Side,9d7e4c,beehive_side.png,1,beehive
+Bee Nest Front,b78e4c,bee_nest_front.png,1,bee_nest
+Bee Nest Front Honey,c3984c,bee_nest_front_honey.png,1,bee_nest
+Bee Nest Side,c4974d,bee_nest_side.png,1,bee_nest
+Bee Nest Top,caa04b,bee_nest_top.png,1,bee_nest
+Birch Log,d9d7d2,birch_log.png,1,birch_log
+Birch Log Top,c1b387,birch_log_top.png,1,birch_log
+Birch Planks,c0af79,birch_planks.png,1,birch_planks
+Birch Trapdoor,cfc29d,birch_trapdoor.png,0,birch_trapdoor
+Blackstone,2a2429,blackstone.png,0,blackstone
+Blackstone Top,2a242a,blackstone_top.png,0,blackstone
+Black Concrete,080a0f,black_concrete.png,0,black_concrete
+Black Concrete Powder,191b20,black_concrete_powder.png,0,black_concrete_powder
+Black Glazed Terracotta,441e20,black_glazed_terracotta.png,0,black_glazed_terracotta
+Black Shulker Box,19191e,black_shulker_box.png,0,black_shulker_box
+Black Stained Glass,191919,black_stained_glass.png,0,black_stained_glass
+Black Terracotta,251710,black_terracotta.png,0,black_terracotta
+Black Wool,15151a,black_wool.png,0,black_wool
+Blast Furnace Front,6c6c6b,blast_furnace_front.png,0,blast_furnace
+Blast Furnace Front On,746f69,blast_furnace_front_on.png,0,blast_furnace
+Blast Furnace Side,6c6b6c,blast_furnace_side.png,0,blast_furnace
+Blast Furnace Top,515051,blast_furnace_top.png,0,blast_furnace
+Blue Concrete,2d2f8f,blue_concrete.png,0,blue_concrete
+Blue Concrete Powder,4649a7,blue_concrete_powder.png,0,blue_concrete_powder
+Blue Glazed Terracotta,2f418b,blue_glazed_terracotta.png,0,blue_glazed_terracotta
+Blue Ice,74a8fd,blue_ice.png,0,blue_ice
+Blue Shulker Box,2c2e8c,blue_shulker_box.png,0,blue_shulker_box
+Blue Stained Glass,334cb2,blue_stained_glass.png,0,blue_stained_glass
+Blue Terracotta,4a3c5b,blue_terracotta.png,0,blue_terracotta
+Blue Wool,35399d,blue_wool.png,0,blue_wool
+Bone Block Side,e5e2d0,bone_block_side.png,0,bone_block
+Bone Block Top,d2ceb3,bone_block_top.png,0,bone_block
+Bookshelf,755f3c,bookshelf.png,1,bookshelf
+Brain Coral Block,cf5b9f,brain_coral_block.png,0,brain_coral_block
+Brewing Stand Base,756a6a,brewing_stand_base.png,0,brewing_stand
+Bricks,976253,bricks.png,0,bricks
+Brown Concrete,603c20,brown_concrete.png,0,brown_concrete
+Brown Concrete Powder,7e5536,brown_concrete_powder.png,0,brown_concrete_powder
+Brown Glazed Terracotta,786a56,brown_glazed_terracotta.png,0,brown_glazed_terracotta
+Brown Mushroom Block,957051,brown_mushroom_block.png,0,brown_mushroom_block
+Brown Shulker Box,6a4224,brown_shulker_box.png,0,brown_shulker_box
+Brown Stained Glass,664c33,brown_stained_glass.png,0,brown_stained_glass
+Brown Terracotta,4d3324,brown_terracotta.png,0,brown_terracotta
+Brown Wool,724829,brown_wool.png,0,brown_wool
+Bubble Coral Block,a51aa2,bubble_coral_block.png,0,bubble_coral_block
+Budding Amethyst,8460bb,budding_amethyst.png,0,budding_amethyst
+Cactus Side,4f7428,cactus_side.png,0,cactus
+Calcite,dfe0dd,calcite.png,0,calcite
+Calibrated Sculk Sensor Top,1c4f65,calibrated_sculk_sensor_top.png,0,calibrated_sculk_sensor
+Campfire Log Lit,6f5836,campfire_log_lit.png,1,campfire_log
+Cartography Table Top,675743,cartography_table_top.png,0,cartography_table
+Carved Pumpkin,965411,carved_pumpkin.png,0,carved_pumpkin
+Cauldron Inner,313135,cauldron_inner.png,0,cauldron
+Cauldron Side,4a494b,cauldron_side.png,0,cauldron
+Cave Vines Lit,3d4218,cave_vines_lit.png,0,cave_vines
+Chain,0b0d10,chain.png,0,chain
+Cherry Leaves,c292a4,cherry_leaves.png,1,cherry_leaves
+Cherry Log,37212c,cherry_log.png,1,cherry_log
+Cherry Log Top,b98d89,cherry_log_top.png,1,cherry_log
+Cherry Planks,e3b3ad,cherry_planks.png,1,cherry_planks
+Cherry Trapdoor,c39994,cherry_trapdoor.png,0,cherry_trapdoor
+Chiseled Bookshelf Empty,5a472a,chiseled_bookshelf_empty.png,1,chiseled_bookshelf_empty
+Chiseled Bookshelf Occupied,795e46,chiseled_bookshelf_occupied.png,1,chiseled_bookshelf_occupied
+Chiseled Bookshelf Side,af8e56,chiseled_bookshelf_side.png,1,chiseled_bookshelf
+Chiseled Bookshelf Top,b29159,chiseled_bookshelf_top.png,1,chiseled_bookshelf
+Chiseled Copper,b8654a,chiseled_copper.png,0,chiseled_copper
+Chiseled Deepslate,363637,chiseled_deepslate.png,0,chiseled_deepslate
+Chiseled Nether Bricks,2e171b,chiseled_nether_bricks.png,0,chiseled_nether_bricks
+Chiseled Polished Blackstone,363139,chiseled_polished_blackstone.png,0,chiseled_polished_blackstone
+Chiseled Quartz Block,e8e3da,chiseled_quartz_block.png,0,chiseled_quartz_block
+Chiseled Quartz Block Top,e8e3d9,chiseled_quartz_block_top.png,0,chiseled_quartz_block
+Chiseled Red Sandstone,b7611c,chiseled_red_sandstone.png,0,chiseled_red_sandstone
+Chiseled Resin Bricks,c95419,chiseled_resin_bricks.png,0,chiseled_resin_bricks
+Chiseled Sandstone,d8cb9b,chiseled_sandstone.png,0,chiseled_sandstone
+Chiseled Stone Bricks,787778,chiseled_stone_bricks.png,0,chiseled_stone_bricks
+Chiseled Tuff,595e57,chiseled_tuff.png,0,chiseled_tuff
+Chiseled Tuff Bricks,636760,chiseled_tuff_bricks.png,0,chiseled_tuff_bricks
+Chiseled Tuff Bricks Top,6f726b,chiseled_tuff_bricks_top.png,0,chiseled_tuff_bricks
+Chiseled Tuff Top,5e635b,chiseled_tuff_top.png,0,chiseled_tuff
+Chorus Plant,5e395e,chorus_plant.png,0,chorus
+Clay,a1a6b3,clay.png,0,clay
+Coal Block,101010,coal_block.png,1,coal_block
+Coal Ore,6a6a69,coal_ore.png,1,coal_ore
+Coarse Dirt,77563b,coarse_dirt.png,0,coarse_dirt
+Cobbled Deepslate,4d4d51,cobbled_deepslate.png,0,cobbled_deepslate
+Cobblestone,807f80,cobblestone.png,0,cobblestone
+Cobweb,5e6060,cobweb.png,0,cobweb
+Composter Side,704620,composter_side.png,0,composter
+Copper Block,c06c50,copper_block.png,0,copper_block
+Copper Bulb,9c5739,copper_bulb.png,0,copper_bulb
+Copper Bulb Lit,d8976b,copper_bulb_lit.png,0,copper_bulb
+Copper Bulb Lit Powered,d8966a,copper_bulb_lit_powered.png,0,copper_bulb
+Copper Bulb Powered,9d5639,copper_bulb_powered.png,0,copper_bulb
+Copper Grate,864b38,copper_grate.png,0,copper_grate
+Copper Ore,7d7e78,copper_ore.png,0,copper_ore
+Copper Trapdoor,98553f,copper_trapdoor.png,0,copper_trapdoor
+Cracked Deepslate Bricks,414141,cracked_deepslate_bricks.png,0,cracked_deepslate_bricks
+Cracked Deepslate Tiles,353535,cracked_deepslate_tiles.png,0,cracked_deepslate_tiles
+Cracked Nether Bricks,281418,cracked_nether_bricks.png,0,cracked_nether_bricks
+Cracked Polished Blackstone Bricks,2c262c,cracked_polished_blackstone_bricks.png,0,cracked_polished_blackstone_bricks
+Cracked Stone Bricks,767676,cracked_stone_bricks.png,0,cracked_stone_bricks
+Crafter East,7f725d,crafter_east.png,0,crafter
+Crafter East Crafting,81725d,crafter_east_crafting.png,0,crafter_crafting
+Crafter East Triggered,81725d,crafter_east_triggered.png,0,crafter_triggered
+Crafter North,726d65,crafter_north.png,0,crafter
+Crafter North Crafting,686052,crafter_north_crafting.png,0,crafter_crafting
+Crafter South,7b7061,crafter_south.png,0,crafter
+Crafter South Triggered,7e7161,crafter_south_triggered.png,0,crafter_triggered
+Crafter Top,706364,crafter_top.png,0,crafter
+Crafter Top Crafting,8c6464,crafter_top_crafting.png,0,crafter_crafting
+Crafter Top Triggered,736364,crafter_top_triggered.png,0,crafter_triggered
+Crafter West,81735f,crafter_west.png,0,crafter
+Crafter West Crafting,82745f,crafter_west_crafting.png,0,crafter_crafting
+Crafter West Triggered,82735f,crafter_west_triggered.png,0,crafter_triggered
+Crafting Table Front,816a46,crafting_table_front.png,0,crafting_table
+Crafting Table Side,81673f,crafting_table_side.png,0,crafting_table
+Crafting Table Top,78492a,crafting_table_top.png,0,crafting_table
+Creaking Heart,52443f,creaking_heart.png,0,creaking_heart
+Creaking Heart Awake,965431,creaking_heart_awake.png,0,creaking_heart_awake
+Creaking Heart Dormant,664231,creaking_heart_dormant.png,0,creaking_heart_dormant
+Creaking Heart Top,493c36,creaking_heart_top.png,0,creaking_heart
+Creaking Heart Top Awake,99542d,creaking_heart_top_awake.png,0,creaking_heart_awake
+Creaking Heart Top Dormant,66412d,creaking_heart_top_dormant.png,0,creaking_heart_dormant
+Crimson Nylium,831f1f,crimson_nylium.png,0,crimson_nylium
+Crimson Nylium Side,6b1b1b,crimson_nylium_side.png,0,crimson_nylium
+Crimson Planks,653147,crimson_planks.png,0,crimson_planks
+Crimson Stem,5d1a1e,crimson_stem.png,0,crimson_stem
+Crimson Stem Top,713246,crimson_stem_top.png,0,crimson_stem
+Crimson Trapdoor,582b3d,crimson_trapdoor.png,0,crimson_trapdoor
+Crying Obsidian,210a3c,crying_obsidian.png,0,crying_obsidian
+Cut Copper,bf6b51,cut_copper.png,0,cut_copper
+Cut Red Sandstone,bd6620,cut_red_sandstone.png,0,cut_red_sandstone
+Cut Sandstone,dacea0,cut_sandstone.png,0,cut_sandstone
+Cyan Concrete,157788,cyan_concrete.png,0,cyan_concrete
+Cyan Concrete Powder,25949d,cyan_concrete_powder.png,0,cyan_concrete_powder
+Cyan Glazed Terracotta,34777d,cyan_glazed_terracotta.png,0,cyan_glazed_terracotta
+Cyan Shulker Box,147987,cyan_shulker_box.png,0,cyan_shulker_box
+Cyan Stained Glass,4c7f99,cyan_stained_glass.png,0,cyan_stained_glass
+Cyan Terracotta,575b5b,cyan_terracotta.png,0,cyan_terracotta
+Cyan Wool,158a91,cyan_wool.png,0,cyan_wool
+Dark Oak Leaves,696a69,dark_oak_leaves.png,1,dark_oak_leaves
+Dark Oak Log,3c2f1a,dark_oak_log.png,1,dark_oak_log
+Dark Oak Log Top,442d16,dark_oak_log_top.png,1,dark_oak_log
+Dark Oak Planks,432b14,dark_oak_planks.png,1,dark_oak_planks
+Dark Oak Trapdoor,4b3217,dark_oak_trapdoor.png,0,dark_oak_trapdoor
+Dark Prismarine,345c4c,dark_prismarine.png,0,dark_prismarine
+Daylight Detector Inverted Top,6a6d71,daylight_detector_inverted_top.png,0,daylight_detector_inverted
+Daylight Detector Side,433724,daylight_detector_side.png,0,daylight_detector
+Daylight Detector Top,83745f,daylight_detector_top.png,0,daylight_detector
+Dead Brain Coral Block,7c7672,dead_brain_coral_block.png,0,dead_brain_coral_block
+Dead Bubble Coral Block,847c77,dead_bubble_coral_block.png,0,dead_bubble_coral_block
+Dead Fire Coral Block,847c78,dead_fire_coral_block.png,0,dead_fire_coral_block
+Dead Horn Coral Block,867e7a,dead_horn_coral_block.png,0,dead_horn_coral_block
+Dead Tube Coral Block,827b78,dead_tube_coral_block.png,0,dead_tube_coral_block
+Deepslate,505053,deepslate.png,0,deepslate
+Deepslate Bricks,474747,deepslate_bricks.png,0,deepslate_bricks
+Deepslate Coal Ore,4a4a4c,deepslate_coal_ore.png,1,deepslate_coal_ore
+Deepslate Copper Ore,5c5d59,deepslate_copper_ore.png,0,deepslate_copper_ore
+Deepslate Diamond Ore,536a6b,deepslate_diamond_ore.png,0,deepslate_diamond_ore
+Deepslate Emerald Ore,4e6858,deepslate_emerald_ore.png,0,deepslate_emerald_ore
+Deepslate Gold Ore,73674e,deepslate_gold_ore.png,0,deepslate_gold_ore
+Deepslate Iron Ore,6b645f,deepslate_iron_ore.png,0,deepslate_iron_ore
+Deepslate Lapis Ore,505b73,deepslate_lapis_ore.png,0,deepslate_lapis_ore
+Deepslate Redstone Ore,69494b,deepslate_redstone_ore.png,0,deepslate_redstone_ore
+Deepslate Tiles,373737,deepslate_tiles.png,0,deepslate_tiles
+Deepslate Top,575759,deepslate_top.png,0,deepslate
+Diamond Block,62ede4,diamond_block.png,0,diamond_block
+Diamond Ore,798d8d,diamond_ore.png,0,diamond_ore
+Diorite,bdbcbd,diorite.png,0,diorite
+Dirt,866043,dirt.png,0,dirt
+Dirt Path Side,805f3e,dirt_path_side.png,0,dirt_path
+Dirt Path Top,947a41,dirt_path_top.png,0,dirt_path
+Dispenser Front,7a7a7a,dispenser_front.png,0,dispenser
+Dispenser Front Vertical,636262,dispenser_front_vertical.png,0,dispenser_vertical
+Dried Kelp Side,26311e,dried_kelp_side.png,1,dried_kelp
+Dried Kelp Top,323b27,dried_kelp_top.png,1,dried_kelp
+Dripstone Block,866c5d,dripstone_block.png,0,dripstone_block
+Dropper Front,7a7a7a,dropper_front.png,0,dropper
+Dropper Front Vertical,626161,dropper_front_vertical.png,0,dropper_vertical
+Emerald Block,2acb58,emerald_block.png,0,emerald_block
+Emerald Ore,6c8874,emerald_ore.png,0,emerald_ore
+Enchanting Table Side,25232b,enchanting_table_side.png,0,enchanting_table
+Enchanting Table Top,814b55,enchanting_table_top.png,0,enchanting_table
+End Portal Frame Side,7a8464,end_portal_frame_side.png,0,end_portal_frame
+End Portal Frame Top,5b7961,end_portal_frame_top.png,0,end_portal_frame
+End Stone,dcdf9e,end_stone.png,0,end_stone
+End Stone Bricks,dae0a2,end_stone_bricks.png,0,end_stone_bricks
+Exposed Chiseled Copper,9b7765,exposed_chiseled_copper.png,0,exposed_chiseled_copper
+Exposed Copper,a17e68,exposed_copper.png,0,exposed_copper
+Exposed Copper Bulb,876c5a,exposed_copper_bulb.png,0,exposed_copper_bulb
+Exposed Copper Bulb Lit,c29164,exposed_copper_bulb_lit.png,0,exposed_copper_bulb
+Exposed Copper Bulb Lit Powered,c39063,exposed_copper_bulb_lit_powered.png,0,exposed_copper_bulb
+Exposed Copper Bulb Powered,886a59,exposed_copper_bulb_powered.png,0,exposed_copper_bulb
+Exposed Copper Grate,715849,exposed_copper_grate.png,0,exposed_copper_grate
+Exposed Copper Trapdoor,806453,exposed_copper_trapdoor.png,0,exposed_copper_trapdoor
+Exposed Cut Copper,9b7a65,exposed_cut_copper.png,0,exposed_cut_copper
+Farmland,8f6747,farmland.png,0,farmland
+Farmland Moist,522c0f,farmland_moist.png,0,farmland_moist
+Fire Coral Block,a4232f,fire_coral_block.png,0,fire_coral_block
+Fletching Table Front,ad9b6f,fletching_table_front.png,0,fletching_table
+Fletching Table Side,c0a782,fletching_table_side.png,0,fletching_table
+Fletching Table Top,c5b485,fletching_table_top.png,0,fletching_table
+Flowering Azalea Leaves,505931,flowering_azalea_leaves.png,1,flowering_azalea_leaves
+Furnace Front,5c5b5b,furnace_front.png,0,furnace
+Furnace Front On,79715e,furnace_front_on.png,0,furnace
+Furnace Side,797878,furnace_side.png,0,furnace
+Furnace Top,6e6e6e,furnace_top.png,0,furnace
+Gilded Blackstone,382b26,gilded_blackstone.png,0,gilded_blackstone
+Glass,8c9697,glass.png,0,glass
+Glowstone,ac8354,glowstone.png,0,glowstone
+Glow Item Frame,946740,glow_item_frame.png,0,glow_item_frame
+Gold Block,f6d03e,gold_block.png,0,gold_block
+Gold Ore,91866b,gold_ore.png,0,gold_ore
+Granite,956756,granite.png,0,granite
+Grass Block Side,7f6b42,grass_block_side.png,0,grass_block
+Grass Block Snow,aa9785,grass_block_snow.png,0,grass_block_snow
+Gravel,847f7f,gravel.png,0,gravel
+Gray Concrete,373a3e,gray_concrete.png,0,gray_concrete
+Gray Concrete Powder,4d5155,gray_concrete_powder.png,0,gray_concrete_powder
+Gray Glazed Terracotta,535a5e,gray_glazed_terracotta.png,0,gray_glazed_terracotta
+Gray Shulker Box,373b3e,gray_shulker_box.png,0,gray_shulker_box
+Gray Stained Glass,4c4c4c,gray_stained_glass.png,0,gray_stained_glass
+Gray Terracotta,3a2a24,gray_terracotta.png,0,gray_terracotta
+Gray Wool,3f4448,gray_wool.png,0,gray_wool
+Green Concrete,495b24,green_concrete.png,0,green_concrete
+Green Concrete Powder,61772d,green_concrete_powder.png,0,green_concrete_powder
+Green Glazed Terracotta,758e43,green_glazed_terracotta.png,0,green_glazed_terracotta
+Green Shulker Box,4f6520,green_shulker_box.png,0,green_shulker_box
+Green Stained Glass,667f33,green_stained_glass.png,0,green_stained_glass
+Green Terracotta,4c532a,green_terracotta.png,0,green_terracotta
+Green Wool,556e1c,green_wool.png,0,green_wool
+Hay Block Side,a68826,hay_block_side.png,0,hay_block
+Hay Block Top,a68b0c,hay_block_top.png,0,hay_block
+Honeycomb Block,e5941e,honeycomb_block.png,0,honeycomb_block
+Honey Block Bottom,f19212,honey_block_bottom.png,0,honey_block
+Honey Block Side,fbbc3a,honey_block_side.png,0,honey_block
+Honey Block Top,fbb935,honey_block_top.png,0,honey_block
+Hopper Inside,313135,hopper_inside.png,0,hopper_inside
+Hopper Outside,434244,hopper_outside.png,0,hopper_outside
+Horn Coral Block,d8c842,horn_coral_block.png,0,horn_coral_block
+Ice,92b8fe,ice.png,0,ice
+Iron Bars,3e3f3d,iron_bars.png,0,iron_bars
+Iron Block,dcdcdc,iron_block.png,0,iron_block
+Iron Ore,88817b,iron_ore.png,0,iron_ore
+Iron Trapdoor,aeaeae,iron_trapdoor.png,0,iron_trapdoor
+Item Frame,75432b,item_frame.png,0,item_frame
+Jack O Lantern,d79835,jack_o_lantern.png,0,jack_o_lantern
+Jukebox Side,593b29,jukebox_side.png,0,jukebox
+Jukebox Top,5e402f,jukebox_top.png,0,jukebox
+Jungle Leaves,6d6b64,jungle_leaves.png,1,jungle_leaves
+Jungle Log,554419,jungle_log.png,1,jungle_log
+Jungle Log Top,966d47,jungle_log_top.png,1,jungle_log
+Jungle Planks,a07351,jungle_planks.png,1,jungle_planks
+Jungle Trapdoor,805c41,jungle_trapdoor.png,0,jungle_trapdoor
+Ladder,46361f,ladder.png,0,ladder
+Lapis Block,1f438c,lapis_block.png,0,lapis_block
+Lapis Ore,6b768d,lapis_ore.png,0,lapis_ore
+Lava Still,d45a12,lava_still.png,0,lava_bucket
+Lectern Base,a3794a,lectern_base.png,0,lectern
+Lectern Front,826538,lectern_front.png,0,lectern
+Lectern Sides,967544,lectern_sides.png,0,lecterns
+Lectern Top,ae8a53,lectern_top.png,0,lectern
+Lightning Rod On,ffffff,lightning_rod_on.png,0,lightning_rod
+Light Blue Concrete,2489c7,light_blue_concrete.png,0,light_blue_concrete
+Light Blue Concrete Powder,4ab5d5,light_blue_concrete_powder.png,0,light_blue_concrete_powder
+Light Blue Glazed Terracotta,5fa5d1,light_blue_glazed_terracotta.png,0,light_blue_glazed_terracotta
+Light Blue Shulker Box,31a4d4,light_blue_shulker_box.png,0,light_blue_shulker_box
+Light Blue Stained Glass,6699d8,light_blue_stained_glass.png,0,light_blue_stained_glass
+Light Blue Terracotta,716d8a,light_blue_terracotta.png,0,light_blue_terracotta
+Light Blue Wool,3aafd9,light_blue_wool.png,0,light_blue_wool
+Light Gray Concrete,7d7d73,light_gray_concrete.png,0,light_gray_concrete
+Light Gray Concrete Powder,9b9b94,light_gray_concrete_powder.png,0,light_gray_concrete_powder
+Light Gray Glazed Terracotta,90a6a8,light_gray_glazed_terracotta.png,0,light_gray_glazed_terracotta
+Light Gray Shulker Box,7c7c73,light_gray_shulker_box.png,0,light_gray_shulker_box
+Light Gray Stained Glass,999999,light_gray_stained_glass.png,0,light_gray_stained_glass
+Light Gray Terracotta,876b62,light_gray_terracotta.png,0,light_gray_terracotta
+Light Gray Wool,8e8e87,light_gray_wool.png,0,light_gray_wool
+Lime Concrete,5ea918,lime_concrete.png,0,lime_concrete
+Lime Concrete Powder,7dbd2a,lime_concrete_powder.png,0,lime_concrete_powder
+Lime Glazed Terracotta,a3c637,lime_glazed_terracotta.png,0,lime_glazed_terracotta
+Lime Shulker Box,64ad17,lime_shulker_box.png,0,lime_shulker_box
+Lime Stained Glass,7fcc19,lime_stained_glass.png,0,lime_stained_glass
+Lime Terracotta,687635,lime_terracotta.png,0,lime_terracotta
+Lime Wool,70b91a,lime_wool.png,0,lime_wool
+Lodestone Side,77787b,lodestone_side.png,0,lodestone
+Lodestone Top,939599,lodestone_top.png,0,lodestone
+Loom Front,947752,loom_front.png,0,loom
+Loom Side,926548,loom_side.png,0,loom
+Loom Top,8e775c,loom_top.png,0,loom
+Magenta Concrete,a9309f,magenta_concrete.png,0,magenta_concrete
+Magenta Concrete Powder,c154b9,magenta_concrete_powder.png,0,magenta_concrete_powder
+Magenta Glazed Terracotta,d064c0,magenta_glazed_terracotta.png,0,magenta_glazed_terracotta
+Magenta Shulker Box,ae36a4,magenta_shulker_box.png,0,magenta_shulker_box
+Magenta Terracotta,96586d,magenta_terracotta.png,0,magenta_terracotta
+Magenta Wool,be45b4,magenta_wool.png,0,magenta_wool
+Magma,8f3f20,magma.png,0,magma
+Mangrove Leaves,6b6a6a,mangrove_leaves.png,1,mangrove_leaves
+Mangrove Log,544329,mangrove_log.png,1,mangrove_log
+Mangrove Log Top,67312a,mangrove_log_top.png,1,mangrove_log
+Mangrove Planks,763631,mangrove_planks.png,1,mangrove_planks
+Mangrove Roots Side,292115,mangrove_roots_side.png,0,mangrove_roots
+Mangrove Roots Top,34291b,mangrove_roots_top.png,0,mangrove_roots
+Mangrove Trapdoor,612925,mangrove_trapdoor.png,0,mangrove_trapdoor
+Melon Side,72921e,melon_side.png,0,melon
+Melon Top,6f911f,melon_top.png,0,melon
+Mossy Cobblestone,6e765f,mossy_cobblestone.png,0,mossy_cobblestone
+Mossy Stone Bricks,737969,mossy_stone_bricks.png,0,mossy_stone_bricks
+Moss Block,596e2d,moss_block.png,0,moss_block
+Mud,3c393d,mud.png,0,mud
+Muddy Mangrove Roots Side,443b30,muddy_mangrove_roots_side.png,0,muddy_mangrove_roots
+Muddy Mangrove Roots Top,463b2d,muddy_mangrove_roots_top.png,0,muddy_mangrove_roots
+Mud Bricks,89684f,mud_bricks.png,0,mud_bricks
+Mushroom Block Inside,caaa78,mushroom_block_inside.png,0,mushroom_block_inside
+Mushroom Stem,cbc5ba,mushroom_stem.png,0,mushroom_stem
+Mycelium Side,725848,mycelium_side.png,0,mycelium
+Mycelium Top,6f6365,mycelium_top.png,0,mycelium
+Netherite Block,433d40,netherite_block.png,0,netherite_block
+Netherrack,622626,netherrack.png,0,netherrack
+Nether Bricks,2c161a,nether_bricks.png,0,nether_bricks
+Nether Gold Ore,73372a,nether_gold_ore.png,0,nether_gold_ore
+Nether Quartz Ore,76423e,nether_quartz_ore.png,0,nether_quartz_ore
+Nether Wart Block,730302,nether_wart_block.png,0,nether_wart_block
+Note Block,593b29,note_block.png,0,note_block
+Oak Leaves,616161,oak_leaves.png,1,oak_leaves
+Oak Log,6d5533,oak_log.png,1,oak_log
+Oak Log Top,977a49,oak_log_top.png,1,oak_log
+Oak Planks,a2834f,oak_planks.png,1,oak_planks
+Oak Trapdoor,6b5531,oak_trapdoor.png,0,oak_trapdoor
+Observer Back,484646,observer_back.png,0,observer
+Observer Back On,4c4444,observer_back_on.png,0,observer
+Observer Front,686767,observer_front.png,0,observer
+Observer Side,464545,observer_side.png,0,observer
+Observer Top,626262,observer_top.png,0,observer
+Obsidian,0f0b19,obsidian.png,0,obsidian
+Ochre Froglight Side,f5e9b6,ochre_froglight_side.png,0,ochre_froglight
+Ochre Froglight Top,fbf5ce,ochre_froglight_top.png,0,ochre_froglight
+Orange Concrete,e06101,orange_concrete.png,0,orange_concrete
+Orange Concrete Powder,e38420,orange_concrete_powder.png,0,orange_concrete_powder
+Orange Glazed Terracotta,9b935c,orange_glazed_terracotta.png,0,orange_glazed_terracotta
+Orange Shulker Box,ea6a09,orange_shulker_box.png,0,orange_shulker_box
+Orange Stained Glass,d87f33,orange_stained_glass.png,0,orange_stained_glass
+Orange Terracotta,a25426,orange_terracotta.png,0,orange_terracotta
+Orange Wool,f17614,orange_wool.png,0,orange_wool
+Oxidized Chiseled Copper,54a284,oxidized_chiseled_copper.png,0,oxidized_chiseled_copper
+Oxidized Copper,52a385,oxidized_copper.png,0,oxidized_copper
+Oxidized Copper Bulb,46846d,oxidized_copper_bulb.png,0,oxidized_copper_bulb
+Oxidized Copper Bulb Lit,879a68,oxidized_copper_bulb_lit.png,0,oxidized_copper_bulb
+Oxidized Copper Bulb Lit Powered,889967,oxidized_copper_bulb_lit_powered.png,0,oxidized_copper_bulb
+Oxidized Copper Bulb Powered,48836c,oxidized_copper_bulb_powered.png,0,oxidized_copper_bulb
+Oxidized Copper Grate,39715c,oxidized_copper_grate.png,0,oxidized_copper_grate
+Oxidized Copper Trapdoor,438169,oxidized_copper_trapdoor.png,0,oxidized_copper_trapdoor
+Oxidized Cut Copper,509a7e,oxidized_cut_copper.png,0,oxidized_cut_copper
+Packed Ice,8eb4fa,packed_ice.png,0,packed_ice
+Packed Mud,8e6b50,packed_mud.png,0,packed_mud
+Pale Hanging Moss Tip,212321,pale_hanging_moss_tip.png,0,pale_hanging_moss_tip
+Pale Moss Block,6b7069,pale_moss_block.png,0,pale_moss_block
+Pale Moss Carpet,6b7069,pale_moss_carpet.png,0,pale_moss_carpet
+Pale Oak Leaves,5f635d,pale_oak_leaves.png,1,pale_oak_leaves
+Pale Oak Log,584e4b,pale_oak_log.png,1,pale_oak_log
+Pale Oak Log Top,c7bdbc,pale_oak_log_top.png,1,pale_oak_log
+Pale Oak Planks,e4dad8,pale_oak_planks.png,1,pale_oak_planks
+Pale Oak Trapdoor,e6dcdb,pale_oak_trapdoor.png,0,pale_oak_trapdoor
+Pearlescent Froglight Side,ece1e5,pearlescent_froglight_side.png,0,pearlescent_froglight
+Pearlescent Froglight Top,f6f0f0,pearlescent_froglight_top.png,0,pearlescent_froglight
+Pink Concrete,d6658f,pink_concrete.png,0,pink_concrete
+Pink Concrete Powder,e599b5,pink_concrete_powder.png,0,pink_concrete_powder
+Pink Glazed Terracotta,eb9bb6,pink_glazed_terracotta.png,0,pink_glazed_terracotta
+Pink Petals,634958,pink_petals.png,0,pink_petals
+Pink Petals Stem,020202,pink_petals_stem.png,0,pink_petals_stem
+Pink Shulker Box,e67a9e,pink_shulker_box.png,0,pink_shulker_box
+Pink Stained Glass,f27fa5,pink_stained_glass.png,0,pink_stained_glass
+Pink Terracotta,a24e4f,pink_terracotta.png,0,pink_terracotta
+Pink Wool,ee8dac,pink_wool.png,0,pink_wool
+Piston Inner,616161,piston_inner.png,0,piston
+Piston Side,6e6961,piston_side.png,0,piston
+Piston Top,998055,piston_top.png,0,piston
+Piston Top Sticky,7b955c,piston_top_sticky.png,0,piston_sticky
+Podzol Side,7b5839,podzol_side.png,0,podzol
+Podzol Top,5c3f18,podzol_top.png,0,podzol
+Polished Andesite,848786,polished_andesite.png,0,polished_andesite
+Polished Basalt Side,59585c,polished_basalt_side.png,0,polished_basalt
+Polished Basalt Top,636365,polished_basalt_top.png,0,polished_basalt
+Polished Blackstone,353139,polished_blackstone.png,0,polished_blackstone
+Polished Blackstone Bricks,302b32,polished_blackstone_bricks.png,0,polished_blackstone_bricks
+Polished Deepslate,484949,polished_deepslate.png,0,polished_deepslate
+Polished Diorite,c1c1c3,polished_diorite.png,0,polished_diorite
+Polished Granite,9a6b59,polished_granite.png,0,polished_granite
+Polished Tuff,626864,polished_tuff.png,0,polished_tuff
+Powder Snow,f8fdfd,powder_snow.png,0,powder_snow
+Prismarine,639c97,prismarine.png,0,prismarine
+Prismarine Bricks,63ac9e,prismarine_bricks.png,0,prismarine_bricks
+Pumpkin Side,c47318,pumpkin_side.png,0,pumpkin
+Pumpkin Top,c67718,pumpkin_top.png,0,pumpkin
+Purple Concrete,64209c,purple_concrete.png,0,purple_concrete
+Purple Concrete Powder,8438b2,purple_concrete_powder.png,0,purple_concrete_powder
+Purple Glazed Terracotta,6e3098,purple_glazed_terracotta.png,0,purple_glazed_terracotta
+Purple Shulker Box,67209c,purple_shulker_box.png,0,purple_shulker_box
+Purple Stained Glass,7f3fb2,purple_stained_glass.png,0,purple_stained_glass
+Purple Terracotta,764656,purple_terracotta.png,0,purple_terracotta
+Purple Wool,7a2aad,purple_wool.png,0,purple_wool
+Purpur Block,aa7eaa,purpur_block.png,0,purpur_block
+Purpur Pillar,ac82ac,purpur_pillar.png,0,purpur_pillar
+Purpur Pillar Top,ac80ab,purpur_pillar_top.png,0,purpur_pillar
+Quartz Block Side,ece6df,quartz_block_side.png,0,quartz_block
+Quartz Block Top,ece6df,quartz_block_top.png,0,quartz_block
+Quartz Bricks,ebe5de,quartz_bricks.png,0,quartz_bricks
+Quartz Pillar,ece7e0,quartz_pillar.png,0,quartz_pillar
+Quartz Pillar Top,ebe6df,quartz_pillar_top.png,0,quartz_pillar
+Raw Copper Block,9a6a4f,raw_copper_block.png,0,raw_copper_block
+Raw Gold Block,dea92f,raw_gold_block.png,0,raw_gold_block
+Raw Iron Block,a6886b,raw_iron_block.png,0,raw_iron_block
+Redstone Block,b01905,redstone_block.png,0,redstone_block
+Redstone Lamp,5f371e,redstone_lamp.png,0,redstone_lamp
+Redstone Lamp On,8f663d,redstone_lamp_on.png,0,redstone_lamp
+Redstone Ore,8c6e6e,redstone_ore.png,0,redstone_ore
+Red Concrete,8e2121,red_concrete.png,0,red_concrete
+Red Concrete Powder,a83633,red_concrete_powder.png,0,red_concrete_powder
+Red Glazed Terracotta,b63c35,red_glazed_terracotta.png,0,red_glazed_terracotta
+Red Mushroom Block,c82f2d,red_mushroom_block.png,0,red_mushroom_block
+Red Nether Bricks,460709,red_nether_bricks.png,0,red_nether_bricks
+Red Sand,bf6721,red_sand.png,0,red_sand
+Red Sandstone,bb631d,red_sandstone.png,0,red_sandstone
+Red Sandstone Top,b5621f,red_sandstone_top.png,0,red_sandstone
+Red Shulker Box,8c1f1e,red_shulker_box.png,0,red_shulker_box
+Red Stained Glass,993333,red_stained_glass.png,0,red_stained_glass
+Red Terracotta,8f3d2f,red_terracotta.png,0,red_terracotta
+Red Wool,a12723,red_wool.png,0,red_wool
+Reinforced Deepslate Side,666d65,reinforced_deepslate_side.png,0,reinforced_deepslate
+Reinforced Deepslate Top,50534f,reinforced_deepslate_top.png,0,reinforced_deepslate
+Resin Block,d96319,resin_block.png,0,resin_block
+Resin Bricks,ce5818,resin_bricks.png,0,resin_bricks
+Respawn Anchor Side0,28183f,respawn_anchor_side0.png,0,respawn_anchor0
+Respawn Anchor Top Off,221634,respawn_anchor_top_off.png,0,respawn_anchor
+Rooted Dirt,90684d,rooted_dirt.png,0,rooted_dirt
+Sand,dbcfa3,sand.png,0,sand
+Sandstone,d8cb9c,sandstone.png,0,sandstone
+Sandstone Top,e0d6aa,sandstone_top.png,0,sandstone
+Sculk,0d1e24,sculk.png,0,sculk
+Sculk Catalyst Side,4d5e5a,sculk_catalyst_side.png,0,sculk_catalyst
+Sculk Catalyst Side Bloom,4d615d,sculk_catalyst_side_bloom.png,0,sculk_catalyst_bloom
+Sculk Catalyst Top,0f2026,sculk_catalyst_top.png,0,sculk_catalyst
+Sculk Catalyst Top Bloom,102d33,sculk_catalyst_top_bloom.png,0,sculk_catalyst_bloom
+Sculk Sensor Top,074654,sculk_sensor_top.png,0,sculk_sensor
+Sculk Shrieker Can Summon Inner Top,1f4142,sculk_shrieker_can_summon_inner_top.png,0,sculk_shrieker_can_summon
+Sculk Shrieker Inner Top,1e3637,sculk_shrieker_inner_top.png,0,sculk_shrieker
+Sea Lantern,acc8be,sea_lantern.png,0,sea_lantern
+Shroomlight,f19347,shroomlight.png,0,shroomlight
+Shulker Box,8b618b,shulker_box.png,0,shulker_box
+Slime Block,70c05c,slime_block.png,0,slime_block
+Smithing Table Front,392527,smithing_table_front.png,0,smithing_table
+Smithing Table Side,372324,smithing_table_side.png,0,smithing_table
+Smithing Table Top,393b47,smithing_table_top.png,0,smithing_table
+Smoker Front,584b3a,smoker_front.png,0,smoker
+Smoker Front On,776143,smoker_front_on.png,0,smoker
+Smoker Side,675c4c,smoker_side.png,0,smoker
+Smoker Top,555451,smoker_top.png,0,smoker
+Smooth Basalt,49484e,smooth_basalt.png,0,smooth_basalt
+Smooth Stone,9f9f9f,smooth_stone.png,0,smooth_stone
+Smooth Stone Slab Side,a8a8a8,smooth_stone_slab_side.png,0,smooth_stone_slab
+Snow,f9fefe,snow.png,0,snow
+Soul Campfire Log Lit,466b69,soul_campfire_log_lit.png,1,soul_campfire_log
+Soul Sand,513e33,soul_sand.png,0,soul_sand
+Soul Soil,4c3a2f,soul_soil.png,0,soul_soil
+Spawner,19202b,spawner.png,0,spawner
+Sponge,c4c04b,sponge.png,0,sponge
+Spruce Leaves,4f4f4f,spruce_leaves.png,1,spruce_leaves
+Spruce Log,3b2611,spruce_log.png,1,spruce_log
+Spruce Log Top,6d502f,spruce_log_top.png,1,spruce_log
+Spruce Planks,735531,spruce_planks.png,1,spruce_planks
+Spruce Trapdoor,684f30,spruce_trapdoor.png,0,spruce_trapdoor
+Stone,7e7e7e,stone.png,0,stone
+Stonecutter Top,7b776f,stonecutter_top.png,0,stonecutter
+Stone Bricks,7a7a7a,stone_bricks.png,0,stone_bricks
+Stripped Acacia Log,af5d3c,stripped_acacia_log.png,1,stripped_acacia_log
+Stripped Acacia Log Top,a65b34,stripped_acacia_log_top.png,1,stripped_acacia_log
+Stripped Bamboo Block,c1ad50,stripped_bamboo_block.png,1,stripped_bamboo_block
+Stripped Bamboo Block Top,b29f49,stripped_bamboo_block_top.png,1,stripped_bamboo_block
+Stripped Birch Log,c5b076,stripped_birch_log.png,1,stripped_birch_log
+Stripped Birch Log Top,bfac74,stripped_birch_log_top.png,1,stripped_birch_log
+Stripped Cherry Log,d79195,stripped_cherry_log.png,1,stripped_cherry_log
+Stripped Cherry Log Top,dda59e,stripped_cherry_log_top.png,1,stripped_cherry_log
+Stripped Crimson Stem,89395a,stripped_crimson_stem.png,0,stripped_crimson_stem
+Stripped Crimson Stem Top,7a3853,stripped_crimson_stem_top.png,0,stripped_crimson_stem
+Stripped Dark Oak Log,493924,stripped_dark_oak_log.png,1,stripped_dark_oak_log
+Stripped Dark Oak Log Top,422c17,stripped_dark_oak_log_top.png,1,stripped_dark_oak_log
+Stripped Jungle Log,ab8555,stripped_jungle_log.png,1,stripped_jungle_log
+Stripped Jungle Log Top,a67b52,stripped_jungle_log_top.png,1,stripped_jungle_log
+Stripped Mangrove Log,783630,stripped_mangrove_log.png,1,stripped_mangrove_log
+Stripped Mangrove Log Top,6d2c2b,stripped_mangrove_log_top.png,1,stripped_mangrove_log
+Stripped Oak Log,b19056,stripped_oak_log.png,1,stripped_oak_log
+Stripped Oak Log Top,a0824d,stripped_oak_log_top.png,1,stripped_oak_log
+Stripped Pale Oak Log,f6eeed,stripped_pale_oak_log.png,1,stripped_pale_oak_log
+Stripped Pale Oak Log Top,ebe3e2,stripped_pale_oak_log_top.png,1,stripped_pale_oak_log
+Stripped Spruce Log,745a34,stripped_spruce_log.png,1,stripped_spruce_log
+Stripped Spruce Log Top,6a502f,stripped_spruce_log_top.png,1,stripped_spruce_log
+Stripped Warped Stem,3a9794,stripped_warped_stem.png,0,stripped_warped_stem
+Stripped Warped Stem Top,34817c,stripped_warped_stem_top.png,0,stripped_warped_stem
+Target Side,e5b0a8,target_side.png,0,target
+Target Top,e2aa9e,target_top.png,0,target
+Terracotta,985e44,terracotta.png,0,terracotta
+Tinted Glass,2c272e,tinted_glass.png,0,tinted_glass
+Tnt Side,b65854,tnt_side.png,1,tnt
+Tnt Top,8f3e36,tnt_top.png,1,tnt
+Trial Spawner Top Active,3f515c,trial_spawner_top_active.png,0,trial_spawner_active
+Trial Spawner Top Active Ominous,315464,trial_spawner_top_active_ominous.png,0,trial_spawner_active_ominous
+Trial Spawner Top Inactive,395363,trial_spawner_top_inactive.png,0,trial_spawner_inactive
+Trial Spawner Top Inactive Ominous,314a5b,trial_spawner_top_inactive_ominous.png,0,trial_spawner_inactive_ominous
+Tube Coral Block,3157cf,tube_coral_block.png,0,tube_coral_block
+Tuff,6c6d67,tuff.png,0,tuff
+Tuff Bricks,62675f,tuff_bricks.png,0,tuff_bricks
+Vault Top,37464f,vault_top.png,0,vault
+Vault Top Ominous,454947,vault_top_ominous.png,0,vault_ominous
+Verdant Froglight Side,d3ebd0,verdant_froglight_side.png,0,verdant_froglight
+Verdant Froglight Top,e5f4e4,verdant_froglight_top.png,0,verdant_froglight
+Warped Nylium,2b7265,warped_nylium.png,0,warped_nylium
+Warped Nylium Side,493e3c,warped_nylium_side.png,0,warped_nylium
+Warped Planks,2b6963,warped_planks.png,0,warped_planks
+Warped Stem,3a3b4e,warped_stem.png,0,warped_stem
+Warped Stem Top,356e6e,warped_stem_top.png,0,warped_stem
+Warped Trapdoor,255e58,warped_trapdoor.png,0,warped_trapdoor
+Warped Wart Block,177879,warped_wart_block.png,0,warped_wart_block
+Weathered Chiseled Copper,69976f,weathered_chiseled_copper.png,0,weathered_chiseled_copper
+Weathered Copper,6c996e,weathered_copper.png,0,weathered_copper
+Weathered Copper Bulb,5c7f63,weathered_copper_bulb.png,0,weathered_copper_bulb
+Weathered Copper Bulb Lit,9c9d63,weathered_copper_bulb_lit.png,0,weathered_copper_bulb
+Weathered Copper Bulb Lit Powered,9e9c62,weathered_copper_bulb_lit_powered.png,0,weathered_copper_bulb
+Weathered Copper Bulb Powered,5e7d62,weathered_copper_bulb_powered.png,0,weathered_copper_bulb
+Weathered Copper Grate,4a6b4e,weathered_copper_grate.png,0,weathered_copper_grate
+Weathered Copper Trapdoor,577a58,weathered_copper_trapdoor.png,0,weathered_copper_trapdoor
+Weathered Cut Copper,6d916c,weathered_cut_copper.png,0,weathered_cut_copper
+Wet Sponge,abb546,wet_sponge.png,0,wet_sponge
+White Concrete,cfd5d6,white_concrete.png,0,white_concrete
+White Concrete Powder,e2e3e4,white_concrete_powder.png,0,white_concrete_powder
+White Glazed Terracotta,bcd4cb,white_glazed_terracotta.png,0,white_glazed_terracotta
+White Shulker Box,d8dddd,white_shulker_box.png,0,white_shulker_box
+White Stained Glass,ffffff,white_stained_glass.png,0,white_stained_glass
+White Terracotta,d2b2a1,white_terracotta.png,0,white_terracotta
+White Wool,eaeced,white_wool.png,0,white_wool
+Yellow Concrete,f1af15,yellow_concrete.png,0,yellow_concrete
+Yellow Concrete Powder,e9c737,yellow_concrete_powder.png,0,yellow_concrete_powder
+Yellow Glazed Terracotta,eac059,yellow_glazed_terracotta.png,0,yellow_glazed_terracotta
+Yellow Shulker Box,f8bd1d,yellow_shulker_box.png,0,yellow_shulker_box
+Yellow Stained Glass,e5e533,yellow_stained_glass.png,0,yellow_stained_glass
+Yellow Terracotta,ba8523,yellow_terracotta.png,0,yellow_terracotta
+Yellow Wool,f9c628,yellow_wool.png,0,yellow_wool
