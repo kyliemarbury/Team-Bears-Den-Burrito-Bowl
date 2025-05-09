@@ -1,3 +1,4 @@
+//ChatGPT was used to export function and generally get used to the syntax of js
 export function parse() {
     return fetch('blocks.csv') // Must be hosted in the same folder or publicly accessible
       .then(response => response.text())
