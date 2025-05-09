@@ -1,3 +1,4 @@
+//ChatGPT was used to help generate a test for this
 /**
  * @jest-environment jsdom
  */
